@@ -1,6 +1,0 @@
-<Solution>
-  <Folder Name="/src/">
-    <Project Path="src/MushiForge.App/MushiForge.App.csproj" />
-    <Project Path="src/MushiForge.Core/MushiForge.Core.csproj" />
-  </Folder>
-</Solution>
